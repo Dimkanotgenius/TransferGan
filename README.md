@@ -14,6 +14,7 @@ Download labraries for work with aiogram and paste your token, which you got fro
 <br />
 <br />
 After that you will see block with ContentLoss, StyleLoss and Normalization. Init them.     <br />
+
 ![image](https://user-images.githubusercontent.com/109117419/178716477-84d41ee7-3485-4b6e-a6c5-3ce9efc8e890.png)
 
  <br />
