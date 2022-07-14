@@ -1,7 +1,7 @@
 # TransferGan
 Style Transfer using vgg16<br />
 <br />
-Open this code on Kaggle.<br />
+Open this code on Kaggle or Google Colab.<br />
 Init labraries <br />
 install aiogram <br />
 ![image](https://user-images.githubusercontent.com/109117419/178997879-cdcd690d-b39b-436b-9c53-b49ec8b5a525.png)
