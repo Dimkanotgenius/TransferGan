@@ -4,12 +4,14 @@ Style Transfer using vgg16<br />
 Open this code on Kaggle.<br />
 Init labraries <br />
 install aiogram <br />
-![image](https://user-images.githubusercontent.com/109117419/178713057-ffe33423-cf29-4e91-9240-8639ff59aa3f.png)
+![image](https://user-images.githubusercontent.com/109117419/178997879-cdcd690d-b39b-436b-9c53-b49ec8b5a525.png)
 
+<br />
+<br />
+Init Dispetcher and StatesGroup
 
-Download labraries for work with aiogram and paste your token, which you got from BotFather  <br />
+![image](https://user-images.githubusercontent.com/109117419/178998157-9bce970b-00ef-4fa4-a9cc-b5429ee201f3.png)
 
-![image](https://user-images.githubusercontent.com/109117419/178716233-394a789f-5e78-4911-9b4e-ec9cdfa3f559.png)
 
 <br />
 <br />
